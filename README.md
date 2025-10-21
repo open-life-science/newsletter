@@ -8,8 +8,13 @@ _A way to nurture our community: providing information and support and empowerin
 
 _Always putting people first._
 
-## If you are interested in contributing to Roots: 
-Roots is open to community contributions! If there is an event or a resource that you'd like to include in our next issue: 
+## 💚 Want to help and contribute to Roots?
+Roots is open to community contributions! We’d love help reviewing content, proofreading drafts, and shaping future issues.
+
+If there is an event or a resource that you'd like to include in our next issue: 
+- Tag yourself in the monthly planning issue or message in Slack to get involved.
 - Check the issues open in the repo and include the content you'd like to submit as a comment to the next issue that will be out (or wherever it makes sense if you want to highlight a future event)
 - We are open to host blogs in our web and newsletter, please get in touch if this is soemthing that you'd like to contribute to. 
 - If you have any doubt, feel free to contact Sara (our community and training lead) at sara@we-are-ols.org 
+
+Sharing is Caring! 🌱
