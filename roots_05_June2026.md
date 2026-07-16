@@ -1,5 +1,5 @@
 _Sent on 7th July_
-
+[Public view: ](https://openlifescience.civicrm.org/civicrm/mailing/view?id=438&reset=1)
 Unsubscribe
 View in your browser
 Newsletter banner saying in small letter: 
