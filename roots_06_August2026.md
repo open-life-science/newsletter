@@ -1,5 +1,3 @@
-October 2025
-
 [*Unsubscribe*](https://openlifescience.civicrm.org/civicrm/mailing/unsubscribe?reset=1&jid=&qid=&h=fakehash)
 
 [View in your browser](https://openlifescience.civicrm.org/civicrm/mailing/view?reset=1&id=449&cid=218&cs=75a202ff61076974791ab54de7e9dfd7_1795463181_336)
